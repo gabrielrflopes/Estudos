@@ -4,4 +4,4 @@ Compartilharei por aqui alguns estudos de Data Science. Espero criar um track re
 
 ## Visualização de dados
 
-- [iPyWidgets](https://github.com/gabrielrflopes/estudos/commit/fc34d65d5acbfd07b2bd473ff1f5fa10d5867700)
+- [iPyWidgets](https://github.com/gabrielrflopes/estudos/blob/main/iPyWidgets_Criando_intera%C3%A7%C3%B5es_com_os_plots.ipynb)
