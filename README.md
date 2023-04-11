@@ -5,6 +5,7 @@ Compartilharei por aqui alguns estudos de Data Science. Espero criar um track re
 ## Análise de dados
 
 - [IBM Data Analysis with Python Course](https://github.com/gabrielrflopes/estudos/blob/main/IBM_Data_Analysis_with_Python.ipynb)
+- [Data Science and Machine Learning](https://github.com/gabrielrflopes/estudos/blob/main/Python_DS_ML.ipynb)
 
 ## Visualização de dados
 
@@ -12,4 +13,4 @@ Compartilharei por aqui alguns estudos de Data Science. Espero criar um track re
 
 ## Certificados
 
-- [IBM Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/9f57d6d559104017abe8cf5c4eeb2046)
+- [IBM Data Analysis with Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
