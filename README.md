@@ -10,6 +10,7 @@ Compartilharei por aqui alguns estudos de Data Science. Espero criar um track re
 ## Visualização de dados
 
 - [iPyWidgets](https://github.com/gabrielrflopes/estudos/blob/main/iPyWidgets_Criando_intera%C3%A7%C3%B5es_com_os_plots.ipynb)
+- [IBM Data Visualization with Python]()
 
 ## Certificados
 
