@@ -15,4 +15,4 @@ Os estudos abaixo abarcam desde análise exploratória de dados até visualizaç
 ## Certificados
 
 - [IBM Data Analysis with Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
-- [SQL and Relational Databases (IBM(](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
+- [SQL and Relational Databases (IBM)](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
