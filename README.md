@@ -6,7 +6,7 @@ Compartilharei por aqui alguns estudos de Data Science. Espero criar um track re
 
 Os estudos abaixo abarcam desde análise exploratória de dados até visualização de dados e data storytelling.
 
-- [IBM Data Analysis with Python Course](https://github.com/gabrielrflopes/estudos/blob/main/IBM_Data_Analysis_with_Python.ipynb)
+- [IBM Data Analysis with Python Course](https://github.com/gabrielrflopes/estudos/blob/main/Data_Analysis_with_Python.ipynb)
 - [Data Science and Machine Learning](https://github.com/gabrielrflopes/estudos/blob/main/Python_DS_ML.ipynb)
 - [SpaceX Falcon 9 Launches Data](https://github.com/gabrielrflopes/estudos/blob/main/SpaceX_Falcon9_Launches_Data.ipynb)
 - [iPyWidgets](https://github.com/gabrielrflopes/estudos/blob/main/iPyWidgets_Criando_intera%C3%A7%C3%B5es_com_os_plots.ipynb)
