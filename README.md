@@ -10,7 +10,6 @@ Os estudos abaixo abarcam desde análise exploratória de dados até visualizaç
 - [Data Science and Machine Learning](https://github.com/gabrielrflopes/estudos/blob/main/Python_DS_ML.ipynb)
 - [SpaceX Falcon 9 Launches Data](https://github.com/gabrielrflopes/estudos/blob/main/SpaceX_Falcon9_Launches_Data.ipynb)
 - [iPyWidgets](https://github.com/gabrielrflopes/estudos/blob/main/iPyWidgets_Criando_intera%C3%A7%C3%B5es_com_os_plots.ipynb)
-- [IBM Data Visualization with Python](https://github.com/gabrielrflopes/estudos/blob/main/Data_Visualization_with_Python.ipynb)
 
 ## Certificados
 
